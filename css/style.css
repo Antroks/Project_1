@@ -505,6 +505,11 @@ form {
     width: 12.04px;
 }
 
+.footer__icon a {
+    text-decoration: none;
+    color: #fff;
+}
+
 .footer__icon {
     margin-top: 28px;
 }
